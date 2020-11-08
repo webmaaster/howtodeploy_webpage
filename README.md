@@ -1,4 +1,4 @@
-# howtodeploy_webpage
+<h1>howtodeploy_webpage</h1>
 ## The requiremets:
 ### The website will be of 5 pages
 ### Every page contains at least 1 video & Photo
@@ -12,4 +12,4 @@
 ## Jayanto creates contact page
 
 #### Please complete it today
-<h1> Thank you</h1>
+<h1 style = "color: red;"> Thank you</h1>
