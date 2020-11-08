@@ -12,4 +12,4 @@
 ## Jayanto creates contact page
 
 #### Please complete it today
-<h1 style="color: red;> Thank you</h1>
+<h1> Thank you</h1>
