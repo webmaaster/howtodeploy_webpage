@@ -1,4 +1,4 @@
-<h1>howtodeploy_webpage</h1>
+# howtodeploy_webpage
 ## The requiremets:
 ### The website will be of 5 pages
 ### Every page contains at least 1 video & Photo
